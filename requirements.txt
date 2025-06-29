@@ -1,0 +1,15 @@
+selenium
+undetected-chromedriver
+beautifulsoup4
+pandas
+scikit-learn
+python-dotenv
+webdriver_manager
+demjson3
+matplotlib 
+seaborn 
+folium
+plotly
+statsmodels
+nbformat>=4.2.0 
+ipykernel

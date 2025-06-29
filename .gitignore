@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.env
+zpscrapper
+venv/
+data/raw_html/
+data/processed/
+data/logs/
+data/urls.txt
+# OS generated files
+.DS_Store
+
